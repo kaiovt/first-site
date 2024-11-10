@@ -1,0 +1,15 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar diretório de build do Next.js
+.next/
+
+# Ignorar arquivos de configuração de IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos de ambiente local
+.env
+
+# Ignorar log de erros do NPM
+npm-debug.log
